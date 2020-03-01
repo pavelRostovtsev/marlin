@@ -1,0 +1,17 @@
+
+.content{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.btn-auth{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: center;
+}
+#errorBlock {
+  display: none;
+}
